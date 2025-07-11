@@ -1,0 +1,12 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(50, 50, 47);
+    text-align: center;
+    color: rgb(215, 211, 173);
+}
+#tab{
+    border: 2px solid grey;
+    }
